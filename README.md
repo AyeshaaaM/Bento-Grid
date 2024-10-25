@@ -45,7 +45,7 @@ Desktop View:
 
 ## Author
 
-- Website - [Ayesha Mehboob](https://www.your-site.com)
+- Website - [Ayesha Mehboob](https://www.linkedin.com/in/ayesha-mehboob-604b60239/))
 - Frontend Mentor - [@AyeshaaaM](https://www.frontendmentor.io/profile/AyeshaaaM)
 
 
