@@ -18,8 +18,13 @@ It is a Bento Grid Design In HTML, and CSS.
 
 ### Screenshot
 
-![](bento-grid-main/bento-grid-main/design/mobile-design.jpg) - Mobile View.
-![](bento-grid-main/bento-grid-main/design/desktop.jpg) - Desktop View.
+Mobile View.:
+
+![](bento-grid-main/bento-grid-main/design/mobile-design.jpg) 
+
+Desktop View:
+
+![](bento-grid-main/bento-grid-main/design/desktop.jpg) 
 
 ### Links
 
